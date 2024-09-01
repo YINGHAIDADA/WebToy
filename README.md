@@ -4,9 +4,9 @@ some toy web app or animation
 
 > ### Heart3D
 > 3D heart animation
-> ![heart3D](doc/img/heart3d.gif)
-> ![heart3D-2](doc/img/heart3d-2.gif)
+> <p align="center"><img width="45%" src="doc/img/heart3d.gif" style="border-radius: 20px; f"><img width="45%" src="doc/img/heart3d-2.gif" style="border-radius: 20px"></p>
 
 > ### Heart2d
 > 2D heart animation
-> ![heart2d](doc/img/heart2d.gif)
+>
+> <img width="80%" src="doc/img/heart2d.gif" style="border-radius: 20px; f">
